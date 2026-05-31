@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Escape",
+  "description": "An immersive cyber-dark 3D-perspective endless runner game with realistic rendering, coins, power-ups, achievements, a levels-system, and synthetic sounds, built on Jetpack Compose Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
